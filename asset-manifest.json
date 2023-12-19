@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/http//Thamarai81.github.io/StickyNote/static/css/main.be078825.css",
+    "main.js": "/http//Thamarai81.github.io/StickyNote/static/js/main.629a01bf.js",
+    "static/js/787.e518ad86.chunk.js": "/http//Thamarai81.github.io/StickyNote/static/js/787.e518ad86.chunk.js",
+    "index.html": "/http//Thamarai81.github.io/StickyNote/index.html",
+    "main.be078825.css.map": "/http//Thamarai81.github.io/StickyNote/static/css/main.be078825.css.map",
+    "main.629a01bf.js.map": "/http//Thamarai81.github.io/StickyNote/static/js/main.629a01bf.js.map",
+    "787.e518ad86.chunk.js.map": "/http//Thamarai81.github.io/StickyNote/static/js/787.e518ad86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be078825.css",
+    "static/js/main.629a01bf.js"
+  ]
+}
